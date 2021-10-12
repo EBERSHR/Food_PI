@@ -1,0 +1,8 @@
+.main-landing{
+	background-image: url('../images/recipes.jpg');  
+	background-size: cover;
+	background-position: center;
+    background-color: black;
+	padding: 15em;
+
+}
